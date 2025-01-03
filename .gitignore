@@ -1,6 +1,6 @@
 # custom
 archive/
-data/
+# data/
 .DS_Store
 Outline.*
 Manuscript
